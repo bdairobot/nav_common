@@ -1,0 +1,2 @@
+std_msgs/Header header
+exploration3d_msgs/FreeSpaceFrontierRepresentative[] frontiers

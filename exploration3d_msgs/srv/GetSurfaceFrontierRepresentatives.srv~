@@ -1,0 +1,3 @@
+geometry_msgs/PoseStamped base_pose
+---
+octomap_frontiers3d/SurfaceFrontierRepresentative[] frontiers

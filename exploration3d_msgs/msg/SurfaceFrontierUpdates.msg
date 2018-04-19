@@ -1,0 +1,3 @@
+std_msgs/Header header
+exploration3d_msgs/SurfaceFrontierRepresentative[] new_surface_frontiers
+exploration3d_msgs/SurfaceFrontierRepresentative[] deleted_surface_frontiers

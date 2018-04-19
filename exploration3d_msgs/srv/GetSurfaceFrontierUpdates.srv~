@@ -1,0 +1,3 @@
+geometry_msgs_msgs::PoseStamped base_pose
+---
+SurfaceFrontierUpdates updates
